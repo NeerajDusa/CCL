@@ -1,7 +1,9 @@
 # CCL
  CCL REACT APPLICATION REPORT
                                                    NEERAJ DUSA
+
 This document is a quick guide for the existing project for the silence round.
+
 Introduction:
 This document is divided into 2 parts. The First Part demonstrates how to create a simple React app using ‘create-react-app’ CLI and explains the project structure.
 The Second Part explains the existing code and demonstrates the use of components, communication between components, and making HTTP calls.
@@ -53,9 +55,3 @@ In this component, we will show the form data that the user has submitted by acc
 local storage and converting it to normal object using JSON.parse.
 Then each field in the object is accessed and rendered into the DOM.
 Basic styles have been applied to the application to make it visually understandable.
-
- CCL form
-  
- Filled the form and testing the input:
-  Output:
- 
